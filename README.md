@@ -2,7 +2,7 @@
 - 👀 I’m interested in strengthening my coding skills in R, Bash and Python.
 - 🌱 I’m currently learning transcriptomic and proteomic data analysis.
 - 💞️ I’m looking to collaborate on harmonizing transcriptomic and proteomic datasets.
-- 📫 How to reach: christinaramelow12@gmail.com.
+- 📫 How to reach me: christinaramelow12@gmail.com.
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I am first-gen!
 
